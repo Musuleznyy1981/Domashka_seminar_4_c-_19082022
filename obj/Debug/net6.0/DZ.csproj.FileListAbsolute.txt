@@ -1,0 +1,15 @@
+G:\Raznye Domashki2022\seminar_c#4\DZ\bin\Debug\net6.0\DZ.exe
+G:\Raznye Domashki2022\seminar_c#4\DZ\bin\Debug\net6.0\DZ.deps.json
+G:\Raznye Domashki2022\seminar_c#4\DZ\bin\Debug\net6.0\DZ.runtimeconfig.json
+G:\Raznye Domashki2022\seminar_c#4\DZ\bin\Debug\net6.0\DZ.dll
+G:\Raznye Domashki2022\seminar_c#4\DZ\bin\Debug\net6.0\DZ.pdb
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.csproj.AssemblyReference.cache
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.AssemblyInfoInputs.cache
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.AssemblyInfo.cs
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.csproj.CoreCompileInputs.cache
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.dll
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\refint\DZ.dll
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.pdb
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\DZ.genruntimeconfig.cache
+G:\Raznye Domashki2022\seminar_c#4\DZ\obj\Debug\net6.0\ref\DZ.dll
